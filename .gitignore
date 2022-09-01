@@ -1,0 +1,5 @@
+www/
+*.zip
+build/
+*app/
+widgetlist.xml
